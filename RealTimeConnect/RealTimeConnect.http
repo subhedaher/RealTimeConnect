@@ -1,0 +1,6 @@
+@RealTimeConnect_HostAddress = http://localhost:5298
+
+GET {{RealTimeConnect_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
